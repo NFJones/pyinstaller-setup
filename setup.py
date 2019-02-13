@@ -10,11 +10,11 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="pyinstaller_setuptools",
-    version="2019.1",
+    version="2019.2",
     description="Use pyinstaller in your setup.py",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/NFJones/pyinstaller-setup",
     author="Neil F Jones",
     classifiers=[
         "Development Status :: 4 - Beta",
