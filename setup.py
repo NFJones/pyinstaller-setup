@@ -10,7 +10,7 @@ with open(path.join(here, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="pyinstaller_setuptools",
-    version="2019.2",
+    version="2019.3",
     description="Use pyinstaller in your setup.py",
     long_description=long_description,
     long_description_content_type="text/markdown",
